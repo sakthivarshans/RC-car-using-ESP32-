@@ -14,11 +14,11 @@
 9. **Test and run the car.**
 
 ## Components Required
-ESP-Wroom32 development board
-L298N motor driver
-breadboard(optional)
-Jumper wires
-analog joystick
-2WD chasis with support wheel
-DC motor
-power source
+ESP-Wroom32 development board,
+L298N motor driver,
+breadboard(optional),
+Jumper wires,
+analog joystick,
+2WD chasis with support wheel,
+DC motor,
+power source.
